@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @khurram539
 - 👀 I’m interested in Cloud 
-- 🌱 I’m currently learning ...Azure DevOps
-- 💞️ I’m looking to collaborate on ... Linkin
+- 🌱 I’m currently learning ...Cloud DevOps
+- 💞️ I’m looking to collaborate on ... LinkedIN  
 - 📫 How to reach me ... Send me a text
--    I'm currently working with Microsoft 
+-    I'm currently working with Booz Allen Halmiton 
 
 <!---
 khurram539/khurram539 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
